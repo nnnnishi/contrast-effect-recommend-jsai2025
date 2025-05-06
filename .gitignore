@@ -11,4 +11,4 @@ wheels/
 *.lock
 .venv
 .cursor
-.python-version
+.python-version.DS_Store
